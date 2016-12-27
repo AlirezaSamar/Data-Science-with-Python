@@ -1,12 +1,12 @@
 # Data Science with Python Handbook
 "Data Science with Python Handbook" - A Handbook to Learn Essential Tools for Working with Data
 
-* [Chapter 1: Introduction to Data Science with Python](#)
+* [Chapter 1: Introduction to Data Science with Python](#) (Coming Soon)
 * [Chapter 2: Introduction to Python Programming](#)
 * [Chapter 3: Numpy - Multidimensional Data Arrays](#)
-* [Chapter 4: Scipy - Library of Scientific Algorithms](#)
+* [Chapter 4: Scipy - Library of Scientific Algorithms](#) (Coming Soon)
 * [Chapter 5: Matplotlib - 2D and 3D Plotting](#)
-* [Chapter 6: Sympy - Symbolic Algebra](#)
+* [Chapter 6: Sympy - Symbolic Algebra](#) (Coming Soon)
 * [Chapter 7: Version Control Software](#)
 
 #How to Run Notebooks
@@ -20,4 +20,4 @@ If you faced this error `[TerminalIPythonApp] WARNING | File not found: u'notebo
 
     $ jupyter notebook
 
-Polished PDF version of this handbook will be available here soon: [Data Science with Python Handbook](#)
+Polished PDF version of this handbook will be available here soon: [Data Science with Python Handbook](#) (Coming Soon)
