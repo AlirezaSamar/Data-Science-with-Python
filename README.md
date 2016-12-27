@@ -10,14 +10,10 @@
 * [Chapter 7: Version Control Software](#)
 
 #How to Run Notebooks
-To open notebooks in IPython, download this repository to your computer and run following command in that directory:
-
-    $ ipython notebook
-
-Now you can navigate through the list of available notebooks.
-
-If you faced this error `[TerminalIPythonApp] WARNING | File not found: u'notebook'`, simply just install Jupyter by following the [instructions](http://jupyter.readthedocs.io/en/latest/install.html) and use the following command to run the notebook:
+To open notebooks with Jupyter, download this repository to your computer and run following command in that directory:
 
     $ jupyter notebook
+
+Now you can navigate through the list of available notebooks.
 
 Polished PDF version of this handbook will be available here soon: [Data Science with Python Handbook](#) (Coming Soon)
