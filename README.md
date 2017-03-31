@@ -4,7 +4,7 @@
 * [Chapter 1: Introduction to Data Science with Python](#) (Coming Soon)
 * [Chapter 2: Introduction to Python Programming](http://nbviewer.jupyter.org/github/alirezasmr/Data-Science-with-Python/blob/master/Chapter-2-Introduction-to-Python-Programming.ipynb)
 * [Chapter 3: Numpy - Multidimensional Data Arrays](http://nbviewer.jupyter.org/github/alirezasmr/Data-Science-with-Python/blob/master/Chapter-3-Numpy.ipynb)
-* [Chapter 4: Scipy - Library of Scientific Algorithms](#) (Coming Soon)
+* [Chapter 4: Scipy - Library of Scientific Algorithms](http://nbviewer.jupyter.org/github/alirezasmr/Data-Science-with-Python/blob/master/Chapter-4-Scipy.ipynb) (New!)
 * [Chapter 5: Matplotlib - 2D and 3D Plotting](http://nbviewer.jupyter.org/github/alirezasmr/Data-Science-with-Python/blob/master/Chapter-5-Matplotlib.ipynb)
 * [Chapter 6: Sympy - Symbolic Algebra](#) (Coming Soon)
 * [Chapter 7: Version Control Software](http://nbviewer.jupyter.org/github/alirezasmr/Data-Science-with-Python/blob/master/Chapter-7-Version-Control-Software.ipynb)
